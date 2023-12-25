@@ -3,7 +3,7 @@
   "displayName": "Contemporary Dark",
   "description": "A better dark theme.",
   "version": "1.0.0",
-  "publisher": "Alex Banos",
+  "publisher": "alexbanos",
   "engines": {
     "vscode": "^1.85.0"
   },
