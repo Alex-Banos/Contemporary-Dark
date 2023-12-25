@@ -2,8 +2,9 @@
   "name": "contemporary-dark",
   "displayName": "Contemporary Dark",
   "description": "A better dark theme.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "alexbanos",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.85.0"
   },

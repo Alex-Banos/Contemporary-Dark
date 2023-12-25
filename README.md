@@ -1,14 +1,29 @@
-# Contemporary-Dark v1.0.0
+# Contemporary-Dark v1.0.1
 
-## Notice
+### Github Repo
 
-Right now, the theme is considered complete.  Some changes or minor edits may follow to better the ux; however, no significant changes will be made.
+[Contemporary-Dark Repository](https://github.com/Alex-Banos/Contemporary-Dark)
 
-### Thank you for downloading Contemporary-Dark
+## Preview
 
-This is my first VSCode theme I have ever developed.  If you want to see similar themes or alternate versions of Contemporary-Dark, feel free to check my GitHub page.
+![Preview image for theme](images/themepreview2.png)
+![Preview image for theme](images/themepreview1.png)
 
-### Links
+## Whats New?
+
+See all changes on the public [GitHub Repo](https://github.com/Alex-Banos/Contemporary-Dark).
+
+## Installation Information
+
+Open VSCode and tap the install button.  Thats it.
+
+## Other
+
+### Creator Links
 
 [Github](https://github.com/Alex-Banos)
+
+### License
+
+N/A
 
