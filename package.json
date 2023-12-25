@@ -1,13 +1,27 @@
 {
-  "name": "Contemporary-Dark",
+  "name": "contemporary-dark",
   "displayName": "Contemporary Dark",
   "description": "A better dark theme.",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "Alex Banos",
   "engines": {
     "vscode": "^1.85.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alex-Banos/Contemporary-Dark"
+  },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "modern",
+    "contemporary",
+    "Alex Banos",
+    "AlexBanos",
+    "Alex Banos Contemporary"
   ],
   "contributes": {
     "themes": [

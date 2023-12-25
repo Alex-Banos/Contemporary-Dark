@@ -1,16 +1,14 @@
-# Contemporary-Dark README
+# Contemporary-Dark v1.0.0
 
-## Working with Markdown
+## Notice
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Right now, the theme is considered complete.  Some changes or minor edits may follow to better the ux; however, no significant changes will be made.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+### Thank you for downloading Contemporary-Dark
 
-## For more information
+This is my first VSCode theme I have ever developed.  If you want to see similar themes or alternate versions of Contemporary-Dark, feel free to check my GitHub page.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Links
 
-**Enjoy!**
+[Github](https://github.com/Alex-Banos)
+
